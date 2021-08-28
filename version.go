@@ -1,2 +1,2 @@
-var version = "2021082803"
-var describe = "更新UA"
+var version = "2021082804"
+var describe = "增删命令关键字"
