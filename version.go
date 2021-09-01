@@ -1,2 +1,2 @@
-var version = "2021082804"
-var describe = "增删命令关键字"
+var version = "2021090101"
+var describe = "添加wskey获取方式"
