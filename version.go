@@ -1,2 +1,2 @@
-var version = "2021090101"
-var describe = "添加wskey获取方式"
+var version = "2021090201"
+var describe = "try wskey"
