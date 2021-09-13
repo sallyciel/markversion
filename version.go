@@ -1,2 +1,2 @@
-var version = "2021090501"
-var describe = "checkCK time"
+var version = "2021091302"
+var describe = "fix index page"
