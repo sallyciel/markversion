@@ -1,2 +1,2 @@
-var version = "2021092201"
-var describe = "fix cron push && del detailquery"
+var version = "2021092202"
+var describe = "删除冗余判断"
