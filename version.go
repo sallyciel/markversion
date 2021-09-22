@@ -1,2 +1,2 @@
-var version = "2021092001"
-var describe = "fix wskey push && del all game coin func"
+var version = "2021092201"
+var describe = "fix cron push && del detailquery"
