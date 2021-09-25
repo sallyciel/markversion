@@ -1,2 +1,2 @@
-var version = "2021092202"
-var describe = "删除冗余判断"
+var version = "2021092501"
+var describe = "优化wskey转换逻辑"
